@@ -8,3 +8,6 @@ Repository for the Munich Beta's 5th Hackanoon
 * When you want to push something, push with `git push origin master`
 * If you are on the Collaborators list, everything should have worked fine
 * You have now pushed a commit successfuly. Rejoice!
+
+Don't want to type your username and password everytime you push? Check
+[this](https://help.github.com/articles/set-up-git#password-caching) out.
